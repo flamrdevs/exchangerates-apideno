@@ -1,0 +1,6 @@
+{
+  "deno.enablePaths": ["./"],
+  "deno.enable": true,
+  "editor.inlayHints.enabled": "off",
+  "prettier.printWidth": 180
+}
